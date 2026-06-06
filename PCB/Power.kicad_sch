@@ -6199,10 +6199,6 @@
 		)
 		(instances
 			(project "Project Aether"
-				(path "/8ccf4896-6572-4d22-b4e7-3d14e48e2542/1d2a1d76-25db-475c-8854-208c6feaa20b"
-					(reference "U4")
-					(unit 1)
-				)
 				(path "/8ccf4896-6572-4d22-b4e7-3d14e48e2542/4a022577-8f07-4327-97dc-21e8800f9e5a"
 					(reference "U4")
 					(unit 1)

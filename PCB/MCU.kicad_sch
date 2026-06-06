@@ -3924,12 +3924,6 @@
 		(uuid "4aa0064d-549a-45cf-96f2-d3998a99bb95")
 	)
 	(junction
-		(at 176.53 152.4)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "52f4c9dd-f6f4-490a-84ea-01c273afa092")
-	)
-	(junction
 		(at 224.79 31.75)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -3946,6 +3940,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "6b24302a-5cee-4c46-8caf-b0a70ce278a0")
+	)
+	(junction
+		(at 176.53 152.4)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "72acfd79-f84a-40c0-af54-3645f13b58cf")
 	)
 	(junction
 		(at 165.1 24.13)
@@ -5299,7 +5299,7 @@
 	)
 	(wire
 		(pts
-			(xy 171.45 152.4) (xy 176.53 152.4)
+			(xy 160.02 152.4) (xy 176.53 152.4)
 		)
 		(stroke
 			(width 0)
@@ -5339,7 +5339,7 @@
 	)
 	(wire
 		(pts
-			(xy 149.86 148.59) (xy 135.89 148.59)
+			(xy 151.13 148.59) (xy 135.89 148.59)
 		)
 		(stroke
 			(width 0)
@@ -5417,8 +5417,8 @@
 		)
 		(uuid "3f1e47af-ccab-47e5-9017-b643e6b019af")
 	)
-	(label "BM83_RESET"
-		(at 149.86 148.59 180)
+	(label "BM83_RESET_N"
+		(at 151.13 148.59 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5557,13 +5557,13 @@
 		)
 		(uuid "a709bb06-55a8-469f-af75-14c02bbde1f4")
 	)
-	(label "BM83_RESET"
-		(at 171.45 152.4 180)
+	(label "BM83_RESET_N"
+		(at 160.02 152.4 0)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify right bottom)
+			(justify left bottom)
 		)
 		(uuid "ad5c9cc8-ff51-4c94-88d8-cd9280aa183e")
 	)
