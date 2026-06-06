@@ -1,0 +1,112 @@
+(kicad_sch
+	(version 20260306)
+	(generator "eeschema")
+	(generator_version "10.0")
+	(uuid "8ccf4896-6572-4d22-b4e7-3d14e48e2542")
+	(paper "A4")
+	(title_block
+		(title "Project Aether PCB")
+		(date "2026-06-03")
+		(rev "0.1")
+		(company "Shiva Prakash")
+	)
+	(lib_symbols)
+	(sheet
+		(at 101.6 49.53)
+		(size 34.29 34.29)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "1d2a1d76-25db-475c-8854-208c6feaa20b")
+		(property "Sheetname" "MCU"
+			(at 101.6 48.8184 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "MCU.kicad_sch"
+			(at 101.6 84.4046 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Project Aether"
+				(path "/8ccf4896-6572-4d22-b4e7-3d14e48e2542"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 59.69 49.53)
+		(size 33.02 34.29)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "4a022577-8f07-4327-97dc-21e8800f9e5a")
+		(property "Sheetname" "USB-C + Power"
+			(at 59.69 48.8184 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Power.kicad_sch"
+			(at 59.69 84.4046 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "Project Aether"
+				(path "/8ccf4896-6572-4d22-b4e7-3d14e48e2542"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
