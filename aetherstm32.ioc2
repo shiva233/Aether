@@ -581,7 +581,7 @@
     },
     "HAL_GPIO_PROJECT_USE_HAL": {
       "name": "HAL_GPIO_PROJECT_USE_HAL",
-      "value": 20,
+      "value": 16,
       "originator": "sw-config-semaphore"
     },
     "HAL_CORTEX_DEBUG_CORE_ENABLED": {
