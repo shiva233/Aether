@@ -416,7 +416,7 @@
         "uuid": "8ccf4896-6572-4d22-b4e7-3d14e48e2542"
       }
     ],
-    "used_designators": "U6",
+    "used_designators": "U6,D3-5,#PWR23,#PWR51-58,TP6-14,R8-9,R13-14,C22-23,SW3-4",
     "variants": []
   },
   "sheets": [
@@ -431,6 +431,10 @@
     [
       "4a022577-8f07-4327-97dc-21e8800f9e5a",
       "USB-C + Power"
+    ],
+    [
+      "f19a21c2-1dac-4768-955e-943437f3afcc",
+      "User Interface"
     ]
   ],
   "text_variables": {},
