@@ -5049,84 +5049,6 @@
 		)
 	)
 	(symbol
-		(lib_id "power:VBUS")
-		(at 38.1 115.57 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "2b931534-ff37-4c46-a0c5-8178fff93a90")
-		(property "Reference" "#PWR04"
-			(at 38.1 119.38 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "VBUS"
-			(at 38.1 110.49 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 38.1 115.57 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 38.1 115.57 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"VBUS\""
-			(at 38.1 115.57 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "1b952f0f-5635-4e31-9205-93bda14945e6")
-		)
-		(instances
-			(project "Project Aether"
-				(path "/8ccf4896-6572-4d22-b4e7-3d14e48e2542/4a022577-8f07-4327-97dc-21e8800f9e5a"
-					(reference "#PWR04")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:+3V3")
 		(at 195.58 73.66 0)
 		(unit 1)
@@ -7044,6 +6966,84 @@
 	)
 	(symbol
 		(lib_id "power:VBUS")
+		(at 38.1 115.57 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "cc89f67b-8d1f-4f1d-8fee-1512ec2145f0")
+		(property "Reference" "#PWR024"
+			(at 38.1 119.38 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "+5V"
+			(at 38.1 110.49 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 38.1 115.57 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 38.1 115.57 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"VBUS\""
+			(at 38.1 115.57 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "36bffb6a-569a-4f2a-8b38-1eeaeae0313c")
+		)
+		(instances
+			(project "Project Aether"
+				(path "/8ccf4896-6572-4d22-b4e7-3d14e48e2542/4a022577-8f07-4327-97dc-21e8800f9e5a"
+					(reference "#PWR024")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:VBUS")
 		(at 113.03 121.92 0)
 		(unit 1)
 		(body_style 1)
@@ -7569,7 +7569,7 @@
 				)
 			)
 		)
-		(property "Value" "GSB1C4621DS1HR"
+		(property "Value" "GSB1C41110SSHR"
 			(at 44.704 94.996 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7579,7 +7579,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Footprints:AMPHENOL_GSB1C4621DS1HR"
+		(property "Footprint" "Footprints:AMPHENOL_GSB1C41110SSHR"
 			(at 44.45 77.47 0)
 			(hide yes)
 			(show_name no)

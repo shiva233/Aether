@@ -12,7 +12,7 @@
 	)
 	(lib_symbols)
 	(sheet
-		(at 101.6 49.53)
+		(at 226.06 114.3)
 		(size 34.29 34.29)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -28,7 +28,7 @@
 		)
 		(uuid "1d2a1d76-25db-475c-8854-208c6feaa20b")
 		(property "Sheetname" "MCU"
-			(at 101.6 48.8184 0)
+			(at 226.06 113.5884 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -39,7 +39,7 @@
 			)
 		)
 		(property "Sheetfile" "MCU.kicad_sch"
-			(at 101.6 84.4046 0)
+			(at 226.06 149.1746 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -58,7 +58,7 @@
 		)
 	)
 	(sheet
-		(at 59.69 49.53)
+		(at 184.15 114.3)
 		(size 33.02 34.29)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -74,7 +74,7 @@
 		)
 		(uuid "4a022577-8f07-4327-97dc-21e8800f9e5a")
 		(property "Sheetname" "USB-C + Power"
-			(at 59.69 48.8184 0)
+			(at 184.15 113.5884 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -85,7 +85,7 @@
 			)
 		)
 		(property "Sheetfile" "Power.kicad_sch"
-			(at 59.69 84.4046 0)
+			(at 184.15 149.1746 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
