@@ -5235,7 +5235,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Inductor_SMD:L_1008_2520Metric"
 			(at 163.83 74.93 0)
 			(hide yes)
 			(show_name no)
@@ -5550,7 +5550,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_SMD:LED_0603_1608Metric"
 			(at 162.56 121.92 0)
 			(hide yes)
 			(show_name no)
@@ -6590,7 +6590,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Fuse:Fuse_1812_4532Metric_Pad1.30x3.40mm_HandSolder"
 			(at 82.55 120.65 0)
 			(hide yes)
 			(show_name no)
@@ -6671,7 +6671,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SOT-223_3MC_MCH"
+		(property "Footprint" "Footprints:SOT-223_3MC_MCH"
 			(at 129.032 119.888 0)
 			(hide yes)
 			(show_name no)
@@ -7151,7 +7151,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "LED_SMD:LED_0603_1608Metric"
 			(at 205.74 74.93 0)
 			(hide yes)
 			(show_name no)
@@ -7417,7 +7417,7 @@
 				)
 			)
 		)
-		(property "Footprint" "TLV62569DBVR:SOT95P280X145-5N"
+		(property "Footprint" "Footprints:SOT95P280X145-5N"
 			(at 132.08 82.55 0)
 			(hide yes)
 			(show_name no)
@@ -7579,7 +7579,7 @@
 				)
 			)
 		)
-		(property "Footprint" "GSB1C4621DS1HR:AMPHENOL_GSB1C4621DS1HR"
+		(property "Footprint" "Footprints:AMPHENOL_GSB1C4621DS1HR"
 			(at 44.45 77.47 0)
 			(hide yes)
 			(show_name no)
