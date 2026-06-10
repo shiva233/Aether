@@ -4142,6 +4142,16 @@
 		)
 		(uuid "0f22d34f-b3cc-4bf2-aecf-095b2e879957")
 	)
+	(text "Place Bulk Cap by the VDD pin LDO enters at"
+		(exclude_from_sim no)
+		(at 40.894 21.336 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "15208783-9e95-430f-b60e-d8096f13619c")
+	)
 	(text "STM_I2S_SDO"
 		(exclude_from_sim no)
 		(at 55.626 70.104 0)
