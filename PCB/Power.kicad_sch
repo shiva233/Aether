@@ -4110,29 +4110,7 @@
 		)
 		(uuid "08ddbcc0-2be6-4b3b-8d24-9947661a65d1")
 	)
-	(label "LED_3V6_K"
-		(at 213.36 77.47 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "2d530b7b-1049-40e0-9b74-5d721e31838a")
-	)
 	(label "USB_D_N"
-		(at 22.86 128.27 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-				(thickness 0.254)
-				(bold yes)
-			)
-			(justify left bottom)
-		)
-		(uuid "431934f3-a9f1-4b27-95e0-8351329814de")
-	)
-	(label "USB_D_P"
 		(at 22.86 125.73 0)
 		(effects
 			(font
@@ -4142,7 +4120,17 @@
 			)
 			(justify left bottom)
 		)
-		(uuid "62dc610c-00f8-46ec-9324-8c42297d2d55")
+		(uuid "0f66ceeb-5a04-4ffe-b246-9b79b01c2645")
+	)
+	(label "LED_3V6_K"
+		(at 213.36 77.47 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "2d530b7b-1049-40e0-9b74-5d721e31838a")
 	)
 	(label "LED_3V3_K"
 		(at 187.96 120.65 0)
@@ -4200,6 +4188,18 @@
 		)
 		(uuid "a390f5fc-e628-40e8-b911-9f9306a61d54")
 	)
+	(label "USB_D_P"
+		(at 22.86 128.27 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+		(uuid "aa22f2ef-ec01-4612-9390-8be117edb2f5")
+	)
 	(label "BUCK_FB"
 		(at 151.13 80.01 0)
 		(effects
@@ -4212,7 +4212,7 @@
 	)
 	(global_label "STM_D_P"
 		(shape input)
-		(at 48.26 124.46 0)
+		(at 48.26 129.54 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4220,9 +4220,9 @@
 			)
 			(justify left)
 		)
-		(uuid "9abe56a9-de6f-442a-b2f3-329aa9c91c05")
+		(uuid "45521055-06fe-4c8d-9a92-a05d38c99e49")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 59.3489 124.46 0)
+			(at 59.3489 129.54 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4236,7 +4236,7 @@
 	)
 	(global_label "STM_D_N"
 		(shape input)
-		(at 48.26 129.54 0)
+		(at 48.26 124.46 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4244,9 +4244,9 @@
 			)
 			(justify left)
 		)
-		(uuid "9c5fcc48-fcc2-42ab-a152-68f856ffb947")
+		(uuid "b0beccd3-a1df-4e9b-b530-4ed7d36c1929")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 59.4094 129.54 0)
+			(at 59.4094 124.46 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
