@@ -46,7 +46,7 @@
 			)
 			(layer "F.Mask"
 				(type "Top Solder Mask")
-				(color "Black")
+				(color "Red")
 				(thickness 0.01)
 			)
 			(layer "F.Cu"
@@ -88,7 +88,7 @@
 			)
 			(layer "B.Mask"
 				(type "Bottom Solder Mask")
-				(color "Black")
+				(color "Red")
 				(thickness 0.01)
 			)
 			(layer "B.Paste"
@@ -117,6 +117,7 @@
 		)
 		(capping no)
 		(filling no)
+		(zone_defaults)
 		(pcbplotparams
 			(layerselection 0x00000000_00000000_55555555_5755f5ff)
 			(plot_on_all_layers_selection 0x00000000_00000000_00000000_00000000)
@@ -15660,7 +15661,7 @@
 			(uuid "ad1f66b1-a40b-4d6b-8338-15dc1839fccb")
 		)
 		(fp_text user "PCB EDGE"
-			(at 0.066025 1.885641 120)
+			(at 0.066025 1.885642 120)
 			(layer "F.Fab")
 			(uuid "23e9ef4b-8f31-4221-87e9-fd240b6f528a")
 			(effects
@@ -15730,7 +15731,7 @@
 			(uuid "48df98f6-4c74-497e-be40-c04ee1f65419")
 		)
 		(pad "A8" smd rect
-			(at 1.25 -3.68 120)
+			(at 1.25 -3.679999 120)
 			(size 0.3 1.15)
 			(layers "F.Cu" "F.Paste")
 			(net "unconnected-(J2-SBU1-PadA8)")
@@ -15757,7 +15758,7 @@
 			(uuid "e864a3f4-36dd-4b48-a5c0-321c73d33044")
 		)
 		(pad "B5" smd rect
-			(at 1.749998 -3.68 120)
+			(at 1.749998 -3.679999 120)
 			(size 0.3 1.15)
 			(layers "F.Cu" "F.Paste")
 			(net "/USB-C + Power/USB_CC2")
