@@ -81,7 +81,12 @@
           "width": 0.261112
         }
       ],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        [
+          "items_not_allowed|140957103|71823561|daed7982-dbcc-406b-aa18-68d869376437|00000000-0000-0000-0000-000000000000",
+          ""
+        ]
+      ],
       "meta": {
         "version": 2
       },
