@@ -19,13 +19,13 @@ The project is also kind of a challenge project for me because it combines Bluet
 
 Extra Info:
 
-The Bluetooth Module: Microchip BM83 Bluetooth Stereo Audio Module
-The MCU: STM32C552CET6
-Bluetooth: Bluetooth Classic A2DP Sink
-Audio Path: BM83 decodes Bluetooth audio and outputs digital PCM over I2S
-USB: USB 2.0 Full-Speed device over USB-C
-PC Interface: USB Audio Class input device so Windows can recognize it without custom drivers
-Power: Powered fully from the PC through USB-C VBUS
-BM83 Power Rail: 3.6V Buck Regulator 
-STM32 Power Rail: 3.3V LDO
-Stackup: 4-Layer Custom PCB (Signal - GND - GND - Signal)
+- The Bluetooth Module: Microchip BM83 Bluetooth Stereo Audio Module
+- The MCU: STM32C552CET6
+- Bluetooth: Bluetooth Classic A2DP Sink
+- Audio Path: BM83 decodes Bluetooth audio and outputs digital PCM over I2S
+- USB: USB 2.0 Full-Speed device over USB-C
+- PC Interface: USB Audio Class input device so Windows can recognize it without custom drivers
+- Power: Powered fully from the PC through USB-C VBUS
+- BM83 Power Rail: 3.6V Buck Regulator 
+- STM32 Power Rail: 3.3V LDO
+- Stackup: 4-Layer Custom PCB (Signal - GND - GND - Signal)
