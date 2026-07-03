@@ -19,10 +19,17 @@ The project is also kind of a challenge project for me because it combines Bluet
 ## Block Diagram
 Coming soon, I promise!! I just need to make a cleaner one!!
 
-## Schematic:
-<img width="3508" height="2480" alt="image" src="https://github.com/user-attachments/assets/74f7b8f9-c531-44d6-8614-c07bff579bae" />
-<img width="3508" height="2480" alt="image" src="https://github.com/user-attachments/assets/50d0e8ec-e12f-440f-99d7-75c70ae82716" />
+## Schematics:
 
+<img width="1650" height="1275" alt="Schematic_page-0002" src="https://github.com/user-attachments/assets/6efbda56-6468-47fb-9e24-5d1209b4a17c" />
+<img width="1650" height="1275" alt="Schematic_page-0001" src="https://github.com/user-attachments/assets/a728f393-b3bc-4c06-b02d-182e062a797d" />
+
+## Layout:
+
+|  |  |
+| :---: | :---: |
+| <img width="450" alt="Top layer" src="https://github.com/user-attachments/assets/a8dc968d-a39d-414a-a511-38609c935002" /><br><b>Top Layer</b> | <img width="450" alt="Bottom layer" src="https://github.com/user-attachments/assets/9d42ffbb-3107-4788-9361-698f7ce86986" /><br><b>Bottom Layer</b> |
+| <img width="450" alt="Inner layer 1" src="https://github.com/user-attachments/assets/567f3eb0-fdac-48f3-b36a-9a3642e6a498" /><br><b>Inner Layer</b> | <img width="450" alt="Inner layer 2" src="https://github.com/user-attachments/assets/5679fb54-7584-42a9-9ac8-66841c7e2811" /><br><b>Inner Layer</b> |
 
 Extra Info:
 
