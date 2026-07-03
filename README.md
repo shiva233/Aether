@@ -16,6 +16,13 @@ Phone / Steam Deck → Bluetooth → Aether → USB-C → PC → My ears :D
 
 The project is also kind of a challenge project for me because it combines Bluetooth Classic audio, I2S digital audio, USB Audio Class, USB-C power/data, and a custom PCB power tree all in one board :D
 
+## Block Diagram
+Coming soon, I promise!! I just need to make a cleaner one!!
+
+## Schematic:
+<img width="3508" height="2480" alt="image" src="https://github.com/user-attachments/assets/74f7b8f9-c531-44d6-8614-c07bff579bae" />
+<img width="3508" height="2480" alt="image" src="https://github.com/user-attachments/assets/50d0e8ec-e12f-440f-99d7-75c70ae82716" />
+
 
 Extra Info:
 
