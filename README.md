@@ -1,5 +1,5 @@
 # Aether 🎧
-
+ 
 A USB-C powered Bluetooth-to-USB audio bridge that lets me connect my phone / Steam Deck with Bluetooth and send that audio straight into my PC as a USB audio input!
 
 |  |  |
